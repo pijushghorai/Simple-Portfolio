@@ -1,0 +1,105 @@
+body{
+    background-color: rgb(0, 0, 0) !important;
+    color: rgb(255, 255, 255) !important;
+}
+
+.menu{
+    list-style: none;
+    margin-right: 12px;
+    font-size: 22px;
+    font-weight: bold;
+    cursor: pointer;
+}
+.menu:hover{
+    color: aqua;
+}
+
+.resume{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    background-color: aqua;
+    padding: 3px 5px;
+    border-radius: 5px;
+}
+.resume:hover{
+    background-color: aquamarine;
+}
+
+.title{
+    font-size: 50px;
+    font-weight: bold;
+    color: aqua;
+    
+}
+
+.my-photo{
+    width: 280px;
+    height: 370px;
+    padding-top : 10px;
+    padding-right : 10px;
+    border-top: 1px solid gray;
+    border-right: 1px solid gray;
+    border-bottom: 1px solid gray;
+}
+
+.fa-brands{
+    font-size: 28px;
+    margin: 5px;
+    color: white;
+}
+.fa-brands:hover{
+    color: aqua;
+}
+.fa-brands:active{
+    scale: 0.9;
+}
+
+.project-1{
+    width: 75%;
+    margin: auto;
+    border: 1px solid gray;
+}
+
+.tech-btn{
+    background-color: rgb(175, 255, 255);
+    color: black;
+    font-size: 15px;
+    font-weight: bold;
+    padding: 2px 5px;
+    margin: 5px;
+    border-radius: 3px;
+}
+
+.input{
+    padding: 10px;
+    outline: none; 
+    margin: 7px;
+}
+
+form{
+    padding: 20px;
+    border: 0.5px solid gray;
+}
+
+.submit{
+    padding: 10px 20px;
+    margin-top: 10px;
+    background-color: aqua;
+    font-weight: bold;
+    border-radius: 5px;
+}
+.submit:hover{
+    background-color: aquamarine;
+}
+.submit:active{
+    scale: 0.9px;
+}
+
+
+.input{
+    background-color: rgb(39, 39, 39);
+    border: none;
+    border-bottom: 1px solid gray;
+    color: white;
+}
+
